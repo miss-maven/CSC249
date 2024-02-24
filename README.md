@@ -10,6 +10,7 @@ Data Structure and Algorithms Python
 - Module 3
     - M3T1 C++
     - M3T2 C ++
+    - M3LAB1 python
 - Module 4
     - *
  
